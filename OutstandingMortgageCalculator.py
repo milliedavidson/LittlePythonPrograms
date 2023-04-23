@@ -1,4 +1,4 @@
-# Outstanding mortgage calculator
+# Outstanding Mortgage Calculator
 
 # Mortgage amount left, as a positive number
 mortgage = float(input("What is the mortgage amount left to pay? "))
