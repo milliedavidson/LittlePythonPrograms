@@ -1,10 +1,12 @@
 # Little Python Programs
 
-A collection of little Python programs, created to practise the language.
+A collection of little Python programs, created to practise the language:
 
 [Outstanding Mortgage Calculator](https://github.com/milliedavidson/LittlePythonPrograms/blob/main/OutstandingMortgageCalculator.py)
 
-[Hot Days](https://github.com/milliedavidson/LittlePythonPrograms/blob/main/HotDays.py)
+[Celsius To Fahrenheit Converter](https://github.com/milliedavidson/LittlePythonPrograms/blob/main/CelsiusToFahrenheitConverter.py)
+
+[Hot Days Finder](https://github.com/milliedavidson/LittlePythonPrograms/blob/main/HotDaysFinder.py)
 
 <br>
 

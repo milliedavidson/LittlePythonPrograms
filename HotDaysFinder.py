@@ -1,4 +1,4 @@
-# Hot days - Find temperatures above 30 degrees (Celsius)
+# Hot Days Finder - Find temperatures above 30 degrees (Celsius)
 
 # Initialise list of input temperatures
 recorded_temps = []
