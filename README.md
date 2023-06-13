@@ -8,6 +8,8 @@ A collection of little Python programs, created to practise the language:
 
 [Hot Days Finder](https://github.com/milliedavidson/LittlePythonPrograms/blob/main/HotDaysFinder.py)
 
+[Random Artist Generator](https://github.com/milliedavidson/LittlePythonPrograms/blob/main/RandomArtistGenerator.py)
+
 <br>
 
 <img src ="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
