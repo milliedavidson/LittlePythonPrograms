@@ -29,13 +29,15 @@ def get_weather(city):
     else:
         print("Error retrieving weather information.")
 
-# Prompt the user for a city name or zip code
-city = input("Enter a city name or zip code: ")
-
-# Validate the user input
-if city.strip() == "":
-    print("Please enter a valid city name or zip code.")
-else:
-    # Get and display the weather for the specified location
+# Loop until user ends
+while True or input == "Q":
+    city = input.lower(("Enter a city or press Q to quit: "))
     get_weather(city)
+
+    # Validate the user input
+    if city.strip() == "":
+        print("Please enter a valid city name or zip code.")
+    else:
+        # Get and display the weather for the specified location
+        get_weather(city)
 
