@@ -6,6 +6,8 @@ A collection of little Python programs, created to practise the language:
 
 [Random Artist Generator](https://github.com/milliedavidson/LittlePythonPrograms/blob/main/RandomArtistGenerator.py)
 
+[Mastodon Bot (in progress)](https://github.com/milliedavidson/LittlePythonPrograms/blob/main/MastodonBot.py)
+
 [Outstanding Mortgage Calculator](https://github.com/milliedavidson/LittlePythonPrograms/blob/main/OutstandingMortgageCalculator.py)
 
 [Celsius To Fahrenheit Converter](https://github.com/milliedavidson/LittlePythonPrograms/blob/main/CelsiusToFahrenheitConverter.py)
